@@ -7,4 +7,5 @@
 
     //imprimir mensaje en php
     echo "Hola mundo";
+
 ?>
